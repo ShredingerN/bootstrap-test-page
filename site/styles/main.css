@@ -38,3 +38,10 @@ body {
     border-color: #634780; /* Цвет границы кнопки */
 }
 
+.carousel-caption {
+    background-color:#63478071 ; /* Цвет фона и его прозрачность */
+    padding: 10px; /* Отступ вокруг текста */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25); /* Тень */
+    border-radius: 5px; /* Закругление углов */
+    color: white; /* Цвет текста */
+}
