@@ -28,8 +28,8 @@ body {
   
 
   .bi {
-    width: 60px; /* Замените "60px" на желаемый размер */
-    height: 60px; /* Замените "60px" на желаемый размер */
+    width: 60px;
+    height: 60px; 
   }
 
   .btn-purple {
@@ -37,12 +37,4 @@ body {
     background-color: #634780; /* Фиолетовый цвет фона кнопки */
     border-color: #634780; /* Цвет границы кнопки */
 }
-
-.card {
-    display: flex;
-    flex-direction: column;
-    height: 450px; /* Укажите желаемую высоту карточки */
-    justify-content: space-between; /* Равномерно распределяет пространство между элементами */
-}
-
 
