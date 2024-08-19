@@ -23,7 +23,7 @@ body {
 }
 
 .nav-link {
-    color: rgb(199, 56, 255); /* Замените "red" на нужный вам цвет */
+    color: rgb(199, 56, 255); 
   }
   
 
@@ -38,8 +38,8 @@ body {
     border-color: #634780; 
 }
 
-.carousel-caption {
-    background-color:#63478071 ; 
+.text-light {
+    background-color:#64636671 ; 
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25); 
     color: white; 
 }
